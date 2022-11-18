@@ -1,5 +1,5 @@
 # Projeto-1-squad-BP
-<h1>Primeiro projeto em Squad para Resilia junto com Programadores Carioca</h1>
+<h1>👩🏽‍💻✨Primeiro projeto em Squad para Resilia junto com Programadores Carioca✨</h1>
 <h3 align="center">Desenvolvedora Web (FrontEnd)</h3>
 
 - 👨‍💻 Projeto em Squad Modulo 1 [https://kauanecard.github.io/Projeto-1-squad-BP/](https://kauanecard.github.io/Projeto-1-squad-BP/)
